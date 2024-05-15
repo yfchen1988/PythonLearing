@@ -8,3 +8,7 @@ This is a record of my Python 3 learning history.
    `brew upgrade`
    `brew install git`
    `brew install vscodium`
+2. Install or Update to the latest version - Python3
+   - [Navigate to the Official download website and click to downlaod the latest install package](https://www.python.org/downloads/)
+   - Click the DMG file to install or update the Python 3
+     
