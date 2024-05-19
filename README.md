@@ -14,4 +14,9 @@
    - 完成有，代开终端Terminal，敲入`python3 -V`, 正确显示对应安装的python3版本回显，即安装成功。
   
 # Day End!
-     
+
+## 2024-05-19 
+1. 初步安装完git
+2. 配置好GitHub ssh设置，能结合GitHub进行clone/pull/push
+
+---
