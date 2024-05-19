@@ -1,5 +1,5 @@
-first_name = "Frank"
-second_name = "Chen"
+first_name = "Thomas"
+second_name = "Muller"
 full_name = f'{first_name} {second_name}'
 print(full_name)
 print(full_name.upper())
@@ -13,6 +13,6 @@ print(f'{language.rstrip()},')
 print(f'{language.strip()},')
 
 
-original_url = 'https://portal.frankchen.com.cn'
+original_url = 'https://www.google.comn'
 print(original_url)
-print(original_url.removeprefix('https://p'))
+print(original_url.removeprefix('https://'))
