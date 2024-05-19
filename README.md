@@ -18,5 +18,6 @@
 ## 2024-05-19 
 1. 初步安装完git
 2. 配置好GitHub ssh设置，能结合GitHub进行clone/pull/push
+3. 将之前练习的.py文件commit
 
 ---
