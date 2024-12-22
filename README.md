@@ -24,3 +24,4 @@
 
 ## 2024-12-22
 1. 重新Git Clone 到本地测试
+2. Git clone the repo to the 16inch
